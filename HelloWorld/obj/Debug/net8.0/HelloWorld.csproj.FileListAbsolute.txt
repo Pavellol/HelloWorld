@@ -28,3 +28,4 @@ D:\Programming\.NET\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
 D:\Programming\.NET\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
 D:\Programming\.NET\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
 D:\Programming\.NET\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
+D:\Programming\.NET\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
